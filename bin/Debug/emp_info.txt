@@ -1,0 +1,3 @@
+david.emp:david123:David:Manager:1000
+sam.emp:sam123:Sam:Jr. Manager:800
+diana.emp:diana123:Diana:Executive:600

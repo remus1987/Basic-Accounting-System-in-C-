@@ -1,0 +1,12 @@
+D:\Office Projects\Basic Acc System C#_remus\Basic_Accounting_System\Basic_Accounting_System\bin\Debug\Basic_Accounting_System.exe.config
+D:\Office Projects\Basic Acc System C#_remus\Basic_Accounting_System\Basic_Accounting_System\bin\Debug\Basic_Accounting_System.exe
+D:\Office Projects\Basic Acc System C#_remus\Basic_Accounting_System\Basic_Accounting_System\bin\Debug\Basic_Accounting_System.pdb
+D:\Office Projects\Basic Acc System C#_remus\Basic_Accounting_System\Basic_Accounting_System\obj\Debug\Basic_Accounting_System.csprojResolveAssemblyReference.cache
+D:\Office Projects\Basic Acc System C#_remus\Basic_Accounting_System\Basic_Accounting_System\obj\Debug\Basic_Accounting_System.exe
+D:\Office Projects\Basic Acc System C#_remus\Basic_Accounting_System\Basic_Accounting_System\obj\Debug\Basic_Accounting_System.pdb
+C:\Users\User\Desktop\Remus 2 procedural programming Solution\Basic_Accounting_System\Basic_Accounting_System\bin\Debug\Basic_Accounting_System.exe.config
+C:\Users\User\Desktop\Remus 2 procedural programming Solution\Basic_Accounting_System\Basic_Accounting_System\obj\Debug\Basic_Accounting_System.pdb
+C:\Users\User\Desktop\Remus 2 procedural programming Solution\Basic_Accounting_System\Basic_Accounting_System\bin\Debug\Basic_Accounting_System.exe
+C:\Users\User\Desktop\Remus 2 procedural programming Solution\Basic_Accounting_System\Basic_Accounting_System\bin\Debug\Basic_Accounting_System.pdb
+C:\Users\User\Desktop\Remus 2 procedural programming Solution\Basic_Accounting_System\Basic_Accounting_System\obj\Debug\Basic_Accounting_System.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Remus 2 procedural programming Solution\Basic_Accounting_System\Basic_Accounting_System\obj\Debug\Basic_Accounting_System.exe
